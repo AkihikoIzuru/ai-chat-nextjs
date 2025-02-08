@@ -1,0 +1,2 @@
+const API_URL = "https://openrouter.ai/api/v1/chat/completions";
+const API_KEY = "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"; // API
